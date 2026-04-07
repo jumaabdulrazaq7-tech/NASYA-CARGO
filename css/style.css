@@ -172,7 +172,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   text-decoration: none;
 }
 .nav-logo img {
-  height: 130px;
+  height: 158px;
   width: auto;
 }
 .nav-links {
@@ -1110,7 +1110,8 @@ select.form-control { appearance: none; cursor: pointer; }
   gap: 40px;
   margin-bottom: 48px;
 }
-.footer-logo img { height: 60px; margin-bottom: 14px; }
+.footer-logo img { width:150px;
+                 height:auto;}
 .footer-desc {
   font-size: 13.5px;
   color: rgba(255,255,255,0.42);
